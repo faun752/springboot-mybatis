@@ -1,0 +1,1 @@
+INSERT INTO student(user_name, email) VALUES('山本', 'yamamoto@example.com');
